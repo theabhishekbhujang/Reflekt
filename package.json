@@ -1,0 +1,24 @@
+{
+  "name": "reflekt-journal",
+  "version": "1.0.0",
+  "description": "A beautiful, modern, open-source journaling app with all premium features free",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "journal",
+    "journaling",
+    "diary",
+    "mood-tracking",
+    "writing",
+    "self-reflection"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
